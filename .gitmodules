@@ -1,0 +1,3 @@
+[submodule "SolanaBootcamp"]
+	path = SolanaBootcamp
+	url = https://github.com/ExtropyIO/SolanaBootcamp.git
